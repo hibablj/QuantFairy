@@ -13,11 +13,19 @@ My goal is to become a solid C++ programmer and create a project in C++ before e
 
 My goal is to post videos related to quant atleast once every 2 weeks on my yt account
 
-# Math 
+### First Videos Ideas
+- [ ] Leetcode 
+- [ ] Calc Topic 
+
+
+# Math
 
 Math tuff 
 
-  # Stats
+STATISTICS
+
+CALC
+
 
 # CS/ ML
 
