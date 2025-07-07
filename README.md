@@ -17,7 +17,7 @@ My goal is to post videos related to quant atleast once every 2 weeks on my yt a
 
 Math tuff 
 
-  #Stats
+  # Stats
 
 # CS/ ML
 
