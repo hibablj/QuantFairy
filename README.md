@@ -4,6 +4,8 @@ To keep track of anything quant related (math, finance, cs, videos and resources
 # WorldQuant
 
 My goal is to get the beginner's algo trading certificate before end of summer.
+https://platform.worldquantbrain.com/sign-in?return_to=https%3A%2F%2Fsupport.worldquantbrain.com%2Fhc%2Fen-us%2Fcommunity%2Fposts%2F8677091679383--BRAIN-TIPS-Increasing-the-capacity-of-alphas
+
 
 # C++ 
 
