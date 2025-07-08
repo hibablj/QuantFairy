@@ -9,7 +9,7 @@ https://platform.worldquantbrain.com/sign-in?return_to=https%3A%2F%2Fsupport.wor
 
 # C++ 
 
-My goal is to become a solid C++ programmer and create a project in C++ before end of summer 
+My goal is to become a solid C++ programmer and create a project in C++ before end of summer . Currently working in C++ Crash Course by Josh Lespinoso. Will be posting the solutions to the exercises soon.
 
 # QuantFairy YT
 
