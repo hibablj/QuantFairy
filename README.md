@@ -1,4 +1,4 @@
-# QuantFairy Gen
+# QuantFairy 
 To keep track of anything quant related (math, finance, cs, videos and resources I post/find)
 
 # WorldQuant
@@ -11,7 +11,7 @@ https://platform.worldquantbrain.com/sign-in?return_to=https%3A%2F%2Fsupport.wor
 
 My goal is to become a solid C++ programmer and create a project in C++ before end of summer 
 
-# QuantFairy
+# QuantFairy YT
 
 My goal is to post videos related to quant atleast once every 2 weeks on my yt account
 
