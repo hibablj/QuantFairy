@@ -57,6 +57,10 @@ Coding stuff
 # Research Papers
 
 Research papers I find interesting
+### NLP: 
+
+Perturbation Sensitivity Analysis to Detect Unintended Model Biases: https://arxiv.org/abs/1910.04210#:~:text=Based%20on%20this%20idea%2C%20we%20propose%20a%20generic,entities%2C%20and%20requires%20no%20new%20annotations%20or%20corpora.
+
 
 
 
