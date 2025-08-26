@@ -63,4 +63,8 @@ Perturbation Sensitivity Analysis to Detect Unintended Model Biases: https://arx
 
 
 
+### COMPUTER GRAPHICS 
+Paper we're currently reading in my Computer Graphics class:
+
+https://dl.acm.org/doi/pdf/10.1145/358876.358882
 
